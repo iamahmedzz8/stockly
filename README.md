@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/stockly_logo.jpeg" width="120" alt="Stockly Logo" />
+<img src="assets/images/stockly_logo.jpeg" width="1280" alt="Stockly Logo" />
 # Stockly
 
 ### Smart Product & Inventory Management

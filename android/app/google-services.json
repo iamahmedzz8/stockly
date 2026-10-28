@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119765222835",
+    "project_id": "stockly-28ea0",
+    "storage_bucket": "stockly-28ea0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119765222835:android:f383134e74b9cb9c2677c6",
+        "android_client_info": {
+          "package_name": "com.stockly.app.stockly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgzm8ExR4u1SuItMX6VLlOw0iejwKgyTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
